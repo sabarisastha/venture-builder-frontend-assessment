@@ -82,4 +82,4 @@ Zustand was explicitly chosen over Redux for this application due to:
 **Sabarisastha V**  
 *Tech Futurist*  
 - **LinkedIn**: [https://www.linkedin.com/in/sabarisastha-v-b87648330](https://www.linkedin.com/in/sabarisastha-v-b87648330)
-- **Email**: [Sabarimurugan530@gmail.com](mailto:Sabarimurugan530@gmail.com)
+- **Email**: [sabarimurugan530@gmail.com](mailto:Sabarimurugan530@gmail.com)
